@@ -18,7 +18,7 @@ The goal of the domain of quantum machine learning is to develop quantum softwar
 6. Unsupervised quantum machine learning for fraud detection, 2022, [[arXiv,pdf](https://arxiv.org/pdf/2208.01203.pdf)], Department of Physics and Astronomy.
 7. A Variational Methods in Quantum Machine Learning, 2022 [[arXiv](https://arxiv.org/pdf/2208.04316.pdf)], University of Florence.
 8. An introduction to quantum machine learning, 2014 [[arXiv, pdf](https://arxiv.org/pdf/1409.3097.pdf)], University of KwaZulu-Natal.
-9. Quantum-Inspired Tensor Neural Networks for Partial Differential Equations, 2022, [[arXiv, pdf](https://arxiv.org/pdf/2208.03836.pdf)],4University of Toronto.
+9. Quantum-Inspired Tensor Neural Networks for Partial Differential Equations, 2022, [[arXiv, pdf](https://arxiv.org/pdf/2208.03836.pdf)], University of Toronto.
 10. Quantum Machine Learning For Classical Data, 2021, [[arXiv, pdf](https://arxiv.org/pdf/2105.03684.pdf)], University College London.
 
 
