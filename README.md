@@ -12,7 +12,7 @@ The goal of the domain of quantum machine learning is to develop quantum softwar
 ## RESEARCH PAPERS
 1. Artificial Intelligence and Machine Learning for Quantum Technologies, 2022 [[arXiv, pdf](https://arxiv.org/pdf/2208.03836.pdf)]
 2. The Ten Key Properties of Quantum Machine Learning, 2019, [[10 Properties of quantum Machine Learning](https://amitray.com/the-10-ms-of-quantum-machine-learning/)], [[Sri Amit Ray, Quantum AI Lab.](https://amitray.com/quantum-ai/)]
-3. Power of data in quantum machine learning, 2021 [[Nature Communications, quantum machine learnin](https://www.nature.com/articles/s41467-021-22539-9)], [[Institute for Quantum Information and Matter, Caltech, Pasadena, CA, USA](https://iqim.caltech.edu/)]
+3. Power of data in quantum machine learning, 2021 [[Nature Communications, quantum machine learning](https://www.nature.com/articles/s41467-021-22539-9)], [[Institute for Quantum Information and Matter, Caltech, Pasadena, CA, USA](https://iqim.caltech.edu/)]
 4. Quantum Machine Learning for Material Synthesis and Hardware Security, 2022 [[arXiv, pdf](https://arxiv.org/pdf/2208.08273.pdf)], The Pennsylvania State University.
 5. Quantum Bayes AI , 2022 [[arXiv, pdf](https://arxiv.org/pdf/2208.08068.pdf)], George Mason University.
 6. Unsupervised quantum machine learning for fraud detection, 2022, [[arXiv,pdf](https://arxiv.org/pdf/2208.01203.pdf)], Department of Physics and Astronomy.
