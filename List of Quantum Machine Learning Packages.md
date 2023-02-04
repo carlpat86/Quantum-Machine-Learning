@@ -17,3 +17,5 @@
 <strong> 8. CQC - A software platform for developing and deploying quantum algorithms, developed by Cambridge Quantum Computing.  </strong>
 
 <strong> 9. Aqua - An open-source library for quantum algorithms and quantum machine learning, developed by IBM.  </strong>
+
+<strong> 10. NetQuant - A library for quantum neural networks and quantum deep learning, developed by XANADU. </strong>
