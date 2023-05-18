@@ -1,5 +1,5 @@
 # Advanced Quantum Machine Learning
-Summaries and notes on Quantum Machine Learning research papers. It covers the integration of quantum algorithms with the machine learning algorithms. Here is a compilation of cutting-edge studies that explore the unanswered questions and promising prospects of quantum machine learning.
+Summaries and notes on Quantum Machine Learning research papers. It covers the integration of quantum algorithms with the machine learning algorithms. Here is a compilation of cutting-edge studies that explore the unanswered questions and promising prospects of <a href = "https://amitray.com/quantum-machine-learning-algorithms-and-complexities/" tag ="new_">quantum machine learning </a>.
 
 <a name="introduction"></a>
 ## INTRODUCTION
